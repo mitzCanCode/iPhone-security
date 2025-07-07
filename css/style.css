@@ -33,25 +33,22 @@ body {
 }
 
 .iphone1 {
-    bottom: 50px;
-    left: 20px;
-    width: 400px;
-    height: auto;
+    top: 5%;
+    right: 60%;
+    height: 40%;
 }
 
 .iphone2 {
-    top: 40px;
-    right: 30px;
-    width: 120px;
-    height: auto;
+    bottom: 0%;
+    right: 70%;
+    height: 30%;
 }
 
 .iphone3 {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 200px;
-    height: auto;
+    top: 40%;
+    left: 60%;
+    /* transform: translate(-50%, -50%); */
+    height: 50%;
 }
 
 
